@@ -4,4 +4,4 @@ That is a HTML5 and CSS3 animation using some academys knowledges developed by e
 
 You can see the final result here:
 
-https://larissaandreapruiz.github.io/Name-animation/
+https://larissaandreapruiz.github.io/Name-animation-CSS-HTML/
